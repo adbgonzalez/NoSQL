@@ -16,7 +16,7 @@ Conceptos esenciais, tipoloxías, comparación co modelo relacional e ámbitos d
 ## 🍃 Sección MongoDB
 Toda a documentación específica de MongoDB (conceptos, instalación, consultas, modelado, agregacións, replicación e sharding, acceso desde Python…) atópase no seguinte subdirectorio:
 
-- [mongodb/readme.md](mongodb/readme.md)
+- [MongoDB](https://github.com/adbgonzalez/NoSQL/blob/main/mongodb/README.md)
 
 ---
 

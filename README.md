@@ -1,4 +1,4 @@
-# Materiais do Curso de Bases de Datos e Big Data
+# Sistemas de Big Data. Unidade 2. Bases de datos NoSQL
 
 Este repositorio recolle os contidos, apuntes e materiais empregados na docencia sobre bases de datos NoSQL, MongoDB e outras tecnoloxías relacionadas.
 

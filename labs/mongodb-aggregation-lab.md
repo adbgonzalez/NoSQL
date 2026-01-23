@@ -1,4 +1,4 @@
-# laboratorio: agregacións en mongodb (incremental) + solucións
+# laboratorio: agregacións en mongodb 
 
 ## contorno
 Empregarase a base de datos **sample_mflix** (coleccións típicas: `movies`, `comments`, `users`, `theaters`).

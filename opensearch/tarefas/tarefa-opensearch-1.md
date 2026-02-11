@@ -1,9 +1,4 @@
-## Boletín de exercicios (10) — Query DSL en OpenSearch (de menos a máis)
-
-Obxectivo: practicar principalmente `term`, `match`, `range` e introducir `bool` de forma progresiva.  
-Só 1 exercicio con agregación.
-
----
+## Boletín de exercicios: Query DSL en OpenSearch 
 
 ### Exercicio 1 — Eventos `error` (term simple)
 
